@@ -910,7 +910,7 @@
                 <header class="grid grid-cols-2 items-center gap-2 py-10 lg:grid-cols-3">
                     <div class="flex lg:justify-center lg:col-start-2">
                         <h1 style="color:red;">22FTT1511</h1>
-                        <h2>testing</h2>
+                        <h2>testing is updated</h2>
                     </div>
                     @if (Route::has('login'))
                     <nav class="-mx-3 flex flex-1 justify-end">
